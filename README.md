@@ -29,7 +29,7 @@ npm install
 After installing dependencies and adding the API key, start the application using:
 
 ```bash
-npm start
+node app.js
 ```
 This will launch the app on http://localhost:3000 by default.
 
